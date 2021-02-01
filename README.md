@@ -1,6 +1,6 @@
 # Projeto de estudo do GraphQL
 
-Projeto para estudo do GraphQL com Node
+Projeto para estudo do GraphQL com javascript
 
 ### TO DO
 - [ ] Separar as mutations está em um arquivo
